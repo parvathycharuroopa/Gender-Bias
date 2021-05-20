@@ -7,8 +7,8 @@ In this project apart from EDA, sentimental analysis and chi-square test has bee
 
 ## ABOUT DATASET
 
-A survey consisting of 25 questions has been conducted which focused on employees with 1 or more years of experience in their respective feild.
-**No of columns**: 25
+A survey consisting of 25 questions has been conducted which focused on employees with 1 or more years of experience in their respective field.
+**No of columns**: 25,
 **No of rows**: 154
 
 ## COLUMN DESCRIPTION
